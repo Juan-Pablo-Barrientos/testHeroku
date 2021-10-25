@@ -1,1 +1,1 @@
-web: Java-Proyecto-123/Homepage.jsp
+web: java -cp target/classes/:target/dependency/
