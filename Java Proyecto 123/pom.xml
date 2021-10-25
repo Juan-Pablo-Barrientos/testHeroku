@@ -2,12 +2,14 @@
 <properties>
  <maven.compiler.source>1.8</maven.compiler.source>
  <maven.compiler.target>1.8</maven.compiler.target>
-</properties>  
+        <java.home>/usr/java/jdk1.8.0_45/bin/javac</java.home>
+  </properties>
 <modelVersion>4.0.0</modelVersion>
   <groupId>JavaProyecto123</groupId>
   <artifactId>JavaProyecto123</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+
   <build>
     <plugins>
       <plugin>
