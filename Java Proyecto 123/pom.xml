@@ -6,8 +6,8 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>clawww</groupId>
-	<artifactId>clawww</artifactId>
+	<groupId>clawgames</groupId>
+	<artifactId>clawgames</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -28,7 +28,7 @@
 				<artifactId>heroku-maven-plugin</artifactId>
 				<version>0.3.0</version>
 				<configuration>
-					<appName>clawww</appName>
+					<appName>clawgames</appName>
 				</configuration>
 			</plugin>
 		</plugins>
